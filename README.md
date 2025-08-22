@@ -9,3 +9,5 @@
 ## Print da tela da página criada (Curriculum Vitae)
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
+![alt text](<Captura de tela 2025-08-22 003230.png>)
+![alt text](<Captura de tela 2025-08-22 003245.png>)
